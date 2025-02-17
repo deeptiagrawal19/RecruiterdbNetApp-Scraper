@@ -30,7 +30,3 @@ Run the following command to install required libraries:
 ```bash
 pip install selenium pandas
 
-### **1️⃣ Clone the Repository**
-```bash
-git clone https://github.com/yourusername/RecruiterDB-Scraper.git
-cd RecruiterDB-Scrape
