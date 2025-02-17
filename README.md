@@ -32,7 +32,7 @@ Run the following command to install required libraries:
 pip install selenium pandas
 ```
 ---
-# **How It Works **
+# How It Works 
 
 1. **Manually log in** to **RecruiterDB** when prompted.  
 2. **Press Enter** after logging in to allow the script to proceed.  
