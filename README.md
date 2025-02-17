@@ -29,4 +29,10 @@ This Python script automates the extraction of recruiter emails from **Recruiter
 Run the following command to install required libraries:
 ```bash
 pip install selenium pandas
-
+```
+---
+How It Works
+Manually log in to RecruiterDB when prompted.
+Press Enter after logging in to allow the script to proceed.
+The script will extract recruiter names & emails and store them in recruiters.xlsx.
+It will automatically process pagination and stop once all recruiters have been scraped.
